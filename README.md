@@ -1,2 +1,2 @@
 # Obie-Food-Android-App
-Fuck Obie Eats
+An app-based food delivery service at Oberlin. 
